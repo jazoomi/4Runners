@@ -2,10 +2,10 @@
 What Number Am I Think Of?
 
 Members:<br>
-Adnan Ahmad. adnan797@my.yorku.ca. Section M Lab 2
-Sadiq Azmi. jazoomi@my.yorku.ca. Section M Lab 3
-Serhat Sozen. ssozen@my.yorku.ca. Section M Lab 3
-Tejleen Kaur. tejleenk@my.yorku.ca. Section M Lab 4
+Adnan Ahmad. adnan797@my.yorku.ca. Section M Lab 2 <br>
+Sadiq Azmi. jazoomi@my.yorku.ca. Section M Lab 3 <br>
+Serhat Sozen. ssozen@my.yorku.ca. Section M Lab 3 <br>
+Tejleen Kaur. tejleenk@my.yorku.ca. Section M Lab 4 <br>
 
 Project Name: Guess my Number!
 
